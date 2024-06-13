@@ -77,6 +77,13 @@ flutter:
      - assets/images/pic1.png
      - assets/images/pic2.webp
      - assets/images/pic3.webp
+     - assets/images/pic1.jpg
+     - assets/images/pic2.jpg
+     - assets/images/pic3.jpg
+     - assets/images/pic4.jpg
+     - assets/images/pic5.jpg
+     - assets/images/pic6.jpg
+     - assets/images/pic7.jpg
   #   - images/a_dot_ham.jpeg
 
   
